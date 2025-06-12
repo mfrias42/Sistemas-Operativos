@@ -85,25 +85,25 @@ limpiar_archivos_inutiles() {
     fi
 
     echo "Buscando archivos inútiles en '$carpeta'..."
-    find "$carpeta" \( -name '*.tmp' -o -name '*.bak' -o -name '*~' -o -empty -o -atime +180 \) -print > /tmp/lista_inutiles.txt
+    find "$carpeta" \( -name '*.tmp' -o -name '*.bak' -o -name '*~' -o -empty -o -atime +180 \) -print > lista_inutiles.txt
 
-    if [[ ! -s /tmp/lista_inutiles.txt ]]; then 
+    if [[ ! -s lista_inutiles.txt ]]; then 
         echo "No se encontraron archivos inútiles." 
         return
     fi
 
     echo "Se encontraron los siguientes archivos:"
-    cat /tmp/lista_inutiles.txt
+    cat lista_inutiles.txt
 
     read -p "¿Desea eliminar todos estos archivos? (s/n): " respuesta
     if [[ "$respuesta" == "s" ]]; then 
-        xargs rm -f < /tmp/lista_inutiles.txt
+        xargs rm -f < lista_inutiles.txt
         echo "Archivos eliminados." 
     else
         echo "No se eliminó ningún archivo." 
     fi
 
-    rm /tmp/lista_inutiles.txt
+    rm lista_inutiles.txt
 }
 
 # Nueva función para obtener el clima por localidad
@@ -114,7 +114,7 @@ obtener_clima_localidad() {
 
 # Nueva función para generar el informe de clima diario de capitales
 generar_informe_clima_diario() {
-   
+
     ./mostrar.sh
 }
 
