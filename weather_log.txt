@@ -2,3 +2,7 @@
 [2025-06-12 02:39:44] PRONÓSTICO 2025-06-12 - Ciudad: Londres, País: Argentina - Temp: Máx null°C, Mín null°C, Prom 15.0°C - Condición: null, Prob. lluvia: null%, Precip: 0.0mm - Humedad: 29%, Viento máx: null km/h, UV: null
 [2025-06-12 02:39:44] PRONÓSTICO 2025-06-13 - Ciudad: Londres, País: Argentina - Temp: Máx null°C, Mín null°C, Prom 9.2°C - Condición: null, Prob. lluvia: null%, Precip: 0.0mm - Humedad: 47%, Viento máx: null km/h, UV: null
 [2025-06-12 02:39:44] ACTUAL - Ciudad: Londres, País: Argentina - Temp: 10.1°C (ST: null°C) - Condición: null, Humedad: 48%, Viento: null km/h
+[2025-06-12 14:36:43] PRONÓSTICO 2025-06-12 - Ciudad: Cordoba, País: Argentina - Temp: Máx null°C, Mín null°C, Prom 11.3°C - Condición: null, Prob. lluvia: null%, Precip: 0.0mm - Humedad: 53%, Viento máx: null km/h, UV: null
+[2025-06-12 14:36:43] PRONÓSTICO 2025-06-13 - Ciudad: Cordoba, País: Argentina - Temp: Máx null°C, Mín null°C, Prom 12.3°C - Condición: null, Prob. lluvia: null%, Precip: 0.0mm - Humedad: 59%, Viento máx: null km/h, UV: null
+[2025-06-12 14:36:43] PRONÓSTICO 2025-06-14 - Ciudad: Cordoba, País: Argentina - Temp: Máx null°C, Mín null°C, Prom 12.0°C - Condición: null, Prob. lluvia: null%, Precip: 0.0mm - Humedad: 56%, Viento máx: null km/h, UV: null
+[2025-06-12 14:36:43] ACTUAL - Ciudad: Cordoba, País: Argentina - Temp: 14.3°C (ST: null°C) - Condición: null, Humedad: 55%, Viento: null km/h

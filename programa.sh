@@ -17,17 +17,6 @@ mostrar_menu() {
     echo "======================================"
 }
 
-# Función para verificar si git está instalado
-verificar_git() {
-    if ! command -v git &> /dev/null; then 
-        read -p "Git no está instalado. ¿Quieres instalarlo? (s/n): " respuesta
-        if [[ "$respuesta" == "s" ]]; then 
-            sudo apt-get update
-            sudo apt-get install git
-        fi
-    fi
-}
-
 # Crear archivo (indicando nombre y tipo)
 crear_archivo() {
     read -p "Ingrese el nombre del archivo (sin extensión): " nombre
