@@ -6,3 +6,11 @@
 [2025-06-12 14:36:43] PRONÓSTICO 2025-06-13 - Ciudad: Cordoba, País: Argentina - Temp: Máx null°C, Mín null°C, Prom 12.3°C - Condición: null, Prob. lluvia: null%, Precip: 0.0mm - Humedad: 59%, Viento máx: null km/h, UV: null
 [2025-06-12 14:36:43] PRONÓSTICO 2025-06-14 - Ciudad: Cordoba, País: Argentina - Temp: Máx null°C, Mín null°C, Prom 12.0°C - Condición: null, Prob. lluvia: null%, Precip: 0.0mm - Humedad: 56%, Viento máx: null km/h, UV: null
 [2025-06-12 14:36:43] ACTUAL - Ciudad: Cordoba, País: Argentina - Temp: 14.3°C (ST: null°C) - Condición: null, Humedad: 55%, Viento: null km/h
+[2025-06-12 20:18:26] PRONÓSTICO 2025-06-12 - Ciudad: Calchin, País: Argentina - Temp: Máx null°C, Mín null°C, Prom 10.3°C - Condición: null, Prob. lluvia: null%, Precip: 0.0mm - Humedad: 56%, Viento máx: null km/h, UV: null
+[2025-06-12 20:18:26] PRONÓSTICO 2025-06-13 - Ciudad: Calchin, País: Argentina - Temp: Máx null°C, Mín null°C, Prom 10.8°C - Condición: null, Prob. lluvia: null%, Precip: 0.0mm - Humedad: 73%, Viento máx: null km/h, UV: null
+[2025-06-12 20:18:26] PRONÓSTICO 2025-06-14 - Ciudad: Calchin, País: Argentina - Temp: Máx null°C, Mín null°C, Prom 9.6°C - Condición: null, Prob. lluvia: null%, Precip: 0.0mm - Humedad: 60%, Viento máx: null km/h, UV: null
+[2025-06-12 20:18:26] ACTUAL - Ciudad: Calchin, País: Argentina - Temp: 16.8°C (ST: null°C) - Condición: null, Humedad: 41%, Viento: null km/h
+[2025-06-12 20:58:36] PRONÓSTICO 2025-06-12 - Ciudad: San Rafael, País: Argentina - Temp: Máx null°C, Mín null°C, Prom 10.2°C - Condición: null, Prob. lluvia: null%, Precip: 0.0mm - Humedad: 59%, Viento máx: null km/h, UV: null
+[2025-06-12 20:58:36] PRONÓSTICO 2025-06-13 - Ciudad: San Rafael, País: Argentina - Temp: Máx null°C, Mín null°C, Prom 10.7°C - Condición: null, Prob. lluvia: null%, Precip: 0.01mm - Humedad: 43%, Viento máx: null km/h, UV: null
+[2025-06-12 20:58:36] PRONÓSTICO 2025-06-14 - Ciudad: San Rafael, País: Argentina - Temp: Máx null°C, Mín null°C, Prom 9.2°C - Condición: null, Prob. lluvia: null%, Precip: 0.0mm - Humedad: 47%, Viento máx: null km/h, UV: null
+[2025-06-12 20:58:36] ACTUAL - Ciudad: San Rafael, País: Argentina - Temp: 15.5°C (ST: null°C) - Condición: null, Humedad: 37%, Viento: null km/h
