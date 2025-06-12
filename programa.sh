@@ -108,14 +108,13 @@ limpiar_archivos_inutiles() {
 
 # Nueva función para obtener el clima por localidad
 obtener_clima_localidad() {
-    # Asegúrate de que el script 'clima_por_localidad.sh' esté en el mismo directorio o proporciona la ruta completa.
-    # Por ejemplo, si está en /home/user/scripts/, usa /home/user/scripts/clima_por_localidad.sh
+   
     ./clima_por_localidad.sh
 }
 
 # Nueva función para generar el informe de clima diario de capitales
 generar_informe_clima_diario() {
-    # Asegúrate de que el script 'pedir_clima_diario.sh' esté en el mismo directorio o proporciona la ruta completa.
+   
     ./mostrar.sh
 }
 
