@@ -1,0 +1,239 @@
+====================================================
+Informe del Clima de Capitales - Generado el: 2025-06-07 00:00:00
+====================================================
+
+--- Clima para: Berlin,DE ---
+  Ciudad: Berlin, Germany
+  Temperatura: 20.3°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 43%
+  Viento: N/A km/h
+
+--- Clima para: Buenos Aires,AR ---
+  Ciudad: Buenos Aires, Argentina
+  Temperatura: 15.1°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 59%
+  Viento: N/A km/h
+
+--- Clima para: Tokyo,JP ---
+  Ciudad: Tokyo, Japan
+  Temperatura: 21.1°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 94%
+  Viento: N/A km/h
+
+--- Clima para: Washington,US ---
+  Ciudad: Washington, United States of America
+  Temperatura: 28.3°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 40%
+  Viento: N/A km/h
+
+--- Clima para: London,UK ---
+  Ciudad: London, United Kingdom
+  Temperatura: 21.3°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 56%
+  Viento: N/A km/h
+
+--- Clima para: Paris,FR ---
+  Ciudad: Paris, France
+  Temperatura: 26.3°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 48%
+  Viento: N/A km/h
+
+====================================================
+
+====================================================
+Informe del Clima de Capitales - Generado el: 2025-06-08 00:00:00
+====================================================
+
+--- Clima para: Berlin,DE ---
+  Ciudad: Berlin, Germany
+  Temperatura: 15.5°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 68%
+  Viento: N/A km/h
+
+--- Clima para: Buenos Aires,AR ---
+  Ciudad: Buenos Aires, Argentina
+  Temperatura: 12.3°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 68%
+  Viento: N/A km/h
+
+--- Clima para: Tokyo,JP ---
+  Ciudad: Tokyo, Japan
+  Temperatura: 23.1°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 64%
+  Viento: N/A km/h
+
+--- Clima para: Washington,US ---
+  Ciudad: Washington, United States of America
+  Temperatura: 22.0°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 89%
+  Viento: N/A km/h
+
+--- Clima para: London,UK ---
+  Ciudad: London, United Kingdom
+  Temperatura: 13.1°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 68%
+  Viento: N/A km/h
+
+--- Clima para: Paris,FR ---
+  Ciudad: Paris, France
+  Temperatura: 15.4°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 67%
+  Viento: N/A km/h
+
+====================================================
+
+====================================================
+Informe del Clima de Capitales - Generado el: 2025-06-09 00:00:00
+====================================================
+
+--- Clima para: Berlin,DE ---
+  Ciudad: Berlin, Germany
+  Temperatura: 14.0°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 73%
+  Viento: N/A km/h
+
+--- Clima para: Buenos Aires,AR ---
+  Ciudad: Buenos Aires, Argentina
+  Temperatura: 11.3°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 75%
+  Viento: N/A km/h
+
+--- Clima para: Tokyo,JP ---
+  Ciudad: Tokyo, Japan
+  Temperatura: 21.2°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 74%
+  Viento: N/A km/h
+
+--- Clima para: Washington,US ---
+  Ciudad: Washington, United States of America
+  Temperatura: 22.7°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 81%
+  Viento: N/A km/h
+
+--- Clima para: London,UK ---
+  Ciudad: London, United Kingdom
+  Temperatura: 14.8°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 69%
+  Viento: N/A km/h
+
+--- Clima para: Paris,FR ---
+  Ciudad: Paris, France
+  Temperatura: 16.7°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 55%
+  Viento: N/A km/h
+
+====================================================
+
+====================================================
+Informe del Clima de Capitales - Generado el: 2025-06-10 00:00:00
+====================================================
+
+--- Clima para: Berlin,DE ---
+  Ciudad: Berlin, Germany
+  Temperatura: 15.2°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 73%
+  Viento: N/A km/h
+
+--- Clima para: Buenos Aires,AR ---
+  Ciudad: Buenos Aires, Argentina
+  Temperatura: 11.5°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 73%
+  Viento: N/A km/h
+
+--- Clima para: Tokyo,JP ---
+  Ciudad: Tokyo, Japan
+  Temperatura: 20.5°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 86%
+  Viento: N/A km/h
+
+--- Clima para: Washington,US ---
+  Ciudad: Washington, United States of America
+  Temperatura: 25.0°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 74%
+  Viento: N/A km/h
+
+--- Clima para: London,UK ---
+  Ciudad: London, United Kingdom
+  Temperatura: 16.6°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 78%
+  Viento: N/A km/h
+
+--- Clima para: Paris,FR ---
+  Ciudad: Paris, France
+  Temperatura: 19.1°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 59%
+  Viento: N/A km/h
+
+====================================================
+
+====================================================
+Informe del Clima de Capitales - Generado el: 2025-06-11 00:00:00
+====================================================
+
+--- Clima para: Berlin,DE ---
+  Ciudad: Berlin, Germany
+  Temperatura: 16.0°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 58%
+  Viento: N/A km/h
+
+--- Clima para: Buenos Aires,AR ---
+  Ciudad: Buenos Aires, Argentina
+  Temperatura: 11.5°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 72%
+  Viento: N/A km/h
+
+--- Clima para: Tokyo,JP ---
+  Ciudad: Tokyo, Japan
+  Temperatura: 21.9°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 88%
+  Viento: N/A km/h
+
+--- Clima para: Washington,US ---
+  Ciudad: Washington, United States of America
+  Temperatura: 26.8°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 55%
+  Viento: N/A km/h
+
+--- Clima para: London,UK ---
+  Ciudad: London, United Kingdom
+  Temperatura: 17.6°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 66%
+  Viento: N/A km/h
+
+--- Clima para: Paris,FR ---
+  Ciudad: Paris, France
+  Temperatura: 20.4°C (Sensación: N/A°C)
+  Condición: N/A
+  Humedad: 67%
+  Viento: N/A km/h
+
+====================================================
