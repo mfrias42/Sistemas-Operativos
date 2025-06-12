@@ -121,7 +121,6 @@ generar_informe_clima_diario() {
 
 
 # Programa principal
-verificar_git 
 while true; do
     mostrar_menu
     read -p "Seleccione una opción: " opcion
